@@ -1,0 +1,14 @@
+{
+  "name": "portafolio_matias-bueno",
+  "version": "1.0.0",
+  "description": "desafio portafolio desafio latam",
+  "main": "index.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Bueno",
+  "license": "ISC",
+  "dependencies": { 
+    "bootstrap": "^5.3.3"
+  }
+}

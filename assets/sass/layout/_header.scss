@@ -1,0 +1,8 @@
+.navbar {
+    background-color: #dfcd73;
+    &__nombre {
+        color: $color-primario;
+        font-family: "jersey 25", sans-serif;
+        font-size: 80px;
+    }
+}
